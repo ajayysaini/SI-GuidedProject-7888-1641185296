@@ -4,4 +4,4 @@ College Management Application
 
 Salesforce Project Ready
 
-SalesForce, Apex, LWC
+SalesForce, Apex, Apex Triggers, LWC
